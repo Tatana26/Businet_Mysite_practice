@@ -1,0 +1,151 @@
+#main-header .main-nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#main-header .main-nav ul {
+    display: none;
+}
+
+#main-header .header-heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 1.5rem;
+    
+}
+
+
+#main-header .header-heading p {
+    width: 90%;
+}
+
+#section-one .section-one-content .boxes {
+    display: flex;
+    flex-direction: column;
+}
+
+#section-one .section-heading {
+    text-align: center;
+}
+
+
+#section-two .section-two-content img {
+    display: none;
+}
+
+#section-two .section-two-content .section-two-info p {
+    width: 80%;
+}
+
+#main-footer .footer-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#main-footer .footer-content h1 {
+    margin-bottom: 2rem;
+}
+
+#main-footer .footer-content  ul {
+    margin-bottom: 2rem;
+}
+
+#main-footer .rights {
+    text-align: center;
+}
+
+#about-header .about-nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#about-header .about-nav ul {
+    display: none;
+}
+
+#about-header .about-nav h1 {
+    margin-bottom: 1rem;
+}
+
+#about-header .about-heading .about-heading-info p {
+    width: 350px;
+    padding: 0 1rem;
+}
+
+#about-header .about-heading-content {
+    margin-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#about-header .about-heading-content img{
+    display: none;
+}
+
+
+#about-section-one .about-section-one-content .about-boxes {
+    display: flex;
+    flex-direction: column;
+}
+
+#about-section-one .about-section-one-content .about-boxes .box {
+    margin-bottom: 1rem;
+}
+
+#about-section-two .about-section-two-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#about-section-two .about-section-two-content img {
+    display: none;
+}
+
+#about-section-two .about-section-two-content .about-section-two-info h1 {
+    text-align: center;
+    margin-left: 1rem;
+}
+
+#about-section-two .about-section-two-content .about-section-two-info p {
+    padding: 2rem;
+}
+
+#team-section .content-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 1rem 2rem;
+}
+
+
+#team-section .content-box .content-info p {
+    width: 100%;
+}
+
+#contact-section .contact-section-container {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+}
