@@ -20,6 +20,10 @@
     
 }
 
+#main-header .header-heading .heading-buttons {
+    margin-bottom: 2rem;
+}
+
 
 #main-header .header-heading p {
     width: 90%;
